@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //황유경 push test
+        //황유경 push test2
     }
 }
